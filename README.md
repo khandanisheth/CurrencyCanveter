@@ -12,14 +12,6 @@ This is a simple and responsive **Currency Converter Web Application** that allo
 - 🔁 Swap currency icon using Font Awesome
 - 🎯 Default value and conversion logic on form submission
 - 📱 Responsive layout using plain HTML/CSS
-
----
-
-## 📸 Screenshot
-
-> (You can upload an image or screenshot in GitHub and link it here like this)  
-> ![Currency Converter Screenshot](screenshot.png)
-
 ---
 
 ## 🛠️ Technologies Used
